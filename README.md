@@ -1,1 +1,1 @@
-# react thunk synchronous
+# React Thunk Synchronous App
